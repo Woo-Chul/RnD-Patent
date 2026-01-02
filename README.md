@@ -15,6 +15,6 @@ https://github.com/Woo-Chul/RnD-Patent/tree/main/KorPatBERT%20%EA%B8%B0%EB%B0%98
 (2024.12.1) [KorPatBERT 기반 특허문헌 CPC 자동분류 고도화 연구](
 )
 <br>
-(2025.12.1) [AI 기반 특허 검색 성능 개선을 위한 한국어 특허 검색 데이터셋 자동 구축 연구](
+(2025.12.1) [특허 검색 성능 개선을 위한 한국어 특허 검색 데이터셋 자동 구축 연구](
 )
 <br>
